@@ -8,7 +8,7 @@ function App() {
         {/* <Route path="/" element={<Home />} /> */}
         {/* 여기에 추가 라우트를 설정하세요 */}
       </Routes>
-    </div>
+    </div> 
   );
 }
 
