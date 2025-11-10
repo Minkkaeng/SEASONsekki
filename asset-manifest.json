@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SEASONsekki/static/css/main.e6c13ad2.css",
+    "main.js": "/SEASONsekki/static/js/main.465d0f2a.js",
+    "index.html": "/SEASONsekki/index.html",
+    "main.e6c13ad2.css.map": "/SEASONsekki/static/css/main.e6c13ad2.css.map",
+    "main.465d0f2a.js.map": "/SEASONsekki/static/js/main.465d0f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.465d0f2a.js"
+  ]
+}
