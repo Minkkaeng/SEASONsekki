@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SEASONsekki/static/css/main.e6c13ad2.css",
-    "main.js": "/SEASONsekki/static/js/main.939e7f7e.js",
+    "main.js": "/SEASONsekki/static/js/main.e7f06cd3.js",
     "index.html": "/SEASONsekki/index.html",
     "main.e6c13ad2.css.map": "/SEASONsekki/static/css/main.e6c13ad2.css.map",
-    "main.939e7f7e.js.map": "/SEASONsekki/static/js/main.939e7f7e.js.map"
+    "main.e7f06cd3.js.map": "/SEASONsekki/static/js/main.e7f06cd3.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.939e7f7e.js"
+    "static/js/main.e7f06cd3.js"
   ]
 }
